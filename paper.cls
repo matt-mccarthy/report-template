@@ -22,6 +22,7 @@
 \newtheorem{thm}{Theorem}[section]
 \newtheorem{cor}[thm]{Corollary}
 \newtheorem{lem}[thm]{Lemma}
+\newtheorem{example}[thm]{Example}
 
 \theoremstyle{definition}
 \newtheorem{defn}{Definition}[section]
