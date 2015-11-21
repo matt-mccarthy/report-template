@@ -23,9 +23,14 @@
 \newtheorem{corollary}[thm]{Corollary}
 \newtheorem{lemma}[thm]{Lemma}
 \newtheorem{example}[thm]{Example}
+\newtheorem*{thm*}{Theorem}
+\newtheorem*{corollary*}{Corollary}
+\newtheorem*{lemma*}{Lemma}
+\newtheorem*{example*}{Example}
 
 \theoremstyle{definition}
 \newtheorem{definition}{Definition}[section]
+\newtheorem*{definition*}{Definition}
 
 \def\AA{\mathbb{A}}	% Algebraics
 \def\CC{\mathbb{C}}	% Complex
