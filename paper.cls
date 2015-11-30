@@ -23,10 +23,14 @@
 \newtheorem{corollary}[thm]{Corollary}
 \newtheorem{lemma}[thm]{Lemma}
 \newtheorem{example}[thm]{Example}
+\newtheorem{proposition}[thm]{Proposition}
+\newtheorem{property}[thm]{Property}
 \newtheorem*{thm*}{Theorem}
 \newtheorem*{corollary*}{Corollary}
 \newtheorem*{lemma*}{Lemma}
 \newtheorem*{example*}{Example}
+\newtheorem*{proposition*}{Proposition}
+\newtheorem*{property*}{Property}
 
 \theoremstyle{definition}
 \newtheorem{definition}{Definition}[section]

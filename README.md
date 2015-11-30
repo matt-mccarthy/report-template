@@ -39,9 +39,13 @@ Note that all of the following must be inside math mode.
 | corollary   | thm        |
 | lemma       | thm        |
 | example     | thm        |
+| proposition | thm        |
+| property    | thm        |
 | definition  | definition |
 | thm*        | unnumbered |
 | corollary*  | unnumbered |
 | lemma*      | unnumbered |
 | example*    | unnumbered |
 | definition* | unnumbered |
+| proposition | unnumbered |
+| property    | unnumbered |
